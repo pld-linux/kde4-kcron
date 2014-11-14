@@ -8,12 +8,12 @@ Summary:	KDE Task Scheduler (cron GUI)
 Summary(pl.UTF-8):	Program do zlecania zadań dla KDE (graficzny interfejs do crona)
 Summary(pt_BR.UTF-8):	Gerenciador/agendador de tarefas e interface para o cron
 Name:		kde4-kcron
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	bdf57f142c4fec0366340eae4dabe7e4
+# Source0-md5:	a60c8b6be3e3575e578cf61f315d968d
 URL:		http://www.kde.org/
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
